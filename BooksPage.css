@@ -1,0 +1,28 @@
+/* BooksPage.css */
+
+.books-container {
+    background-color: black; /* Set background color to black */
+    color: white; /* Set text color to white */
+    text-align: center; /* Center-align the contents */
+    padding: 20px; /* Add padding to the container */
+  }
+  
+  .centered-heading {
+    margin-top: 0; /* Remove default margin from heading */
+  }
+  
+  .books-list {
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Arrange items in a column */
+    align-items: center; /* Center-align items horizontally */
+  }
+  
+  .book-item {
+    margin-top: 10px; /* Add margin between book items */
+  }
+  
+  .book-title {
+    color: white; /* Set text color to white */
+    text-decoration: none; /* Remove default underline */
+  }
+  

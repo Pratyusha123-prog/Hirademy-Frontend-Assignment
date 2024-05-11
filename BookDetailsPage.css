@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .header {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .book-title {
+    color: green;
+  }
+  
+  .content {
+    background-color: black;
+    color: green;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .book-details-box {
+    text-align: center;
+  }
+  
